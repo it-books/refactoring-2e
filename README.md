@@ -5,7 +5,7 @@
 
 # refactoring-2e
 
-> 『리팩토링, 2판』을 읽고 공부하며 정리하는 저장소입니다.<br><br> This is a repository where you can read, study, and organize “Refactoring, 2nd edition”
+> 『리팩토링, 2판』을 읽고 공부하며 정리하는 저장소입니다.<br><br> This is a repository where you can read, study, and organize “Refactoring, 2nd edition
 
 
 </div>
