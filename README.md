@@ -1,9 +1,15 @@
-# refactoring-2e
-'refactoring-2e'을 읽고 공부하며 정리하는 저장소입니다.
+<div align="center">
+
 
 <img src="images/refactoring-2e.png" width="250"/>
 
-***
+# refactoring-2e
+
+> 『리팩토링, 2판』을 읽고 공부하며 정리하는 저장소입니다.<br><br> This is a repository where you can read, study, and organize “Refactoring, 2nd edition”
+
+
+</div>
+
 
 ## 목차
 
